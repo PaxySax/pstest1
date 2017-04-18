@@ -16,6 +16,7 @@ namespace prjpstest1.Controllers
 
 			ViewData["Version"] = mvcName.Version.Major + "." + mvcName.Version.Minor;
 			ViewData["Runtime"] = isMono ? "Mono" : ".NET";
+			ViewData["Date"] = DateTime.Now.Date;
 
 			return View();
 		}
