@@ -1,0 +1,12 @@
+/Users/pascal/Documents/git/pstest1/prjpstest1/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/prjpstest1.dll.mdb
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/prjpstest1.dll
+/Users/pascal/Documents/git/pstest1/prjpstest1/obj/Debug/prjpstest1.dll
+/Users/pascal/Documents/git/pstest1/prjpstest1/obj/Debug/prjpstest1.dll.mdb
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/System.Web.Razor.dll
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/Microsoft.Web.Infrastructure.dll
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/System.Web.Helpers.dll
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/System.Web.WebPages.Deployment.dll
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/System.Web.WebPages.dll
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/System.Web.WebPages.Razor.dll
+/Users/pascal/Documents/git/pstest1/prjpstest1/bin/System.Web.Mvc.dll
